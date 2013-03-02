@@ -1,6 +1,6 @@
 //starting.cpp
 
-#include "headers/starting.hpp"
+#include "starting.hpp"
 #include "cstring"
 char* starting()
 {

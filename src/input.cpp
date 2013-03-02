@@ -1,7 +1,7 @@
 //input.cpp
 #include <allegro.h>
 
-#include "headers/sprite.hpp"
+#include "sprite.hpp"
 bool getInput(Player *player)
 {
      if ( keypressed () ) 

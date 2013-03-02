@@ -1,7 +1,7 @@
 //balloon.cpp
 
 #include <cmath>
-#include "headers/balloon.hpp"
+#include "balloon.hpp"
 
 /*
 Balloon::Balloon()//:Sprite()

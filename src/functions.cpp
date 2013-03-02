@@ -1,8 +1,8 @@
 //function.cpp
 
 #include <vector>
-#include "headers/sprite.hpp"
-#include "headers/balloon.hpp"
+#include "sprite.hpp"
+#include "balloon.hpp"
 
 using namespace std;
 

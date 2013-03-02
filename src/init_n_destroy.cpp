@@ -5,8 +5,8 @@
 #include <time.h>
 #include <cmath>
 #include "allegro.h"
-#include "headers/sprite.hpp"
-#include "headers/balloon.hpp"
+#include "sprite.hpp"
+#include "balloon.hpp"
 
 using namespace std;
 //initializing the background

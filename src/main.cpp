@@ -1,13 +1,13 @@
-#include "headers/definePrepro.hpp"
+#include "definePrepro.hpp"
 
 
 #include <vector>
 #include <allegro.h>
-#include "headers/sprite.hpp"
-#include "headers/init_n_destroy.hpp"
-#include "headers/balloon.hpp"
-#include "headers/mainGame.hpp"
-#include "headers/starting.hpp"
+#include "sprite.hpp"
+#include "init_n_destroy.hpp"
+#include "balloon.hpp"
+#include "mainGame.hpp"
+#include "starting.hpp"
 
 using namespace std;
 

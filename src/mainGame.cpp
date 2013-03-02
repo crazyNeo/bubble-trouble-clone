@@ -1,5 +1,5 @@
 //mainGame.cpp
-#include "headers/mainGame.hpp"
+#include "mainGame.hpp"
 
 extern int ticks;
 extern int counter;

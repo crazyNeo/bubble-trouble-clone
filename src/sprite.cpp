@@ -1,6 +1,6 @@
 //sprite.cpp
 
-#include "headers/sprite.hpp"
+#include "sprite.hpp"
 #include "allegro.h"
 //destructor for
 
