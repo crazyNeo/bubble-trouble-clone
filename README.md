@@ -36,7 +36,7 @@ You may use, modify, redistribute about in any way you like.
 
 ## Credits
 
-	Developed by crazyNeo
+	Developed by krazedkrish
 	Contact: crazyNeo@members.allegro.cc
 	Download link: 
-[https://github.com/crazyNeo/bubble-trouble-clone.git]
+[https://github.com/krazedkrish/bubble-trouble-clone.git]
